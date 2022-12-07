@@ -4,5 +4,5 @@ I am proficient in low code test automation tools and its implementations (TestP
 🌱 Having experience and Continuously improving my automation framework knowledge in "Cypress.iO- Mocha" and "Playwright".
 🌱 Can write scripts in Javascript, Typescript.
 🌱 Having a good understand of Rest API's and can perform API automation using Postman, Rest Assured lib, Cypress.io, Playwright.
-💞️ This repository is just my practice repository to showcase my test automation knowledge and expertise.
+💞️ This repository is just my practice repository to showcase my test automation knowledge and expertise in
 "Cypress" and "Playwright" primarily.
