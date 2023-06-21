@@ -1,8 +1,6 @@
 👋 Hi, I’m @balaji
-👀 I’m interested in aquiring knowledge and best approaches in test automation.
-I am proficient in low code test automation tools and its implementations (TestProject.io, Katalon Studio, AccelQ, Testim etc).
-🌱 Having experience and Continuously improving my automation framework knowledge in "Cypress.iO- Mocha" and "Playwright".
-🌱 Can write scripts in Javascript, Typescript.
-🌱 Having a good understand of Rest API's and can perform API automation using Postman, Rest Assured lib, Cypress.io, Playwright.
-💞️ This repository is just my practice repository to showcase my test automation knowledge and expertise in
-"Cypress" and "Playwright" primarily.
+👀 I’m interested in acquiring knowledge and the best approaches in test automation
+🌱 Can write scripts in Javascript, Typescript, HTML, CSS, JSON, and JAVA.
+🌱 Having a good understanding of microservices, REST api and can perform API automation using Postman, Rest Assured lib.
+🌱 Interested in load testing, performance testing, exploring new frameworks, low code test automation tools as well.
+🌱 Primarily working with UI testing and test automation using Testcafe.io, Cypress.io, and Playwright.
