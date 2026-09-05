@@ -10,7 +10,7 @@ I specialize in building deterministic UI/API test automation frameworks, CI/CD 
 
 * **Building an Agentic Playwright Harness for Enterprise UI Automation:** Architected deterministic agentic patterns that leverage structured task context, repository topology, and verification guardrails to reliably execute end-to-end tests.
 * **Agentic API Automation Workspace:** Built a portable workspace pattern using small task context, OpenAPI specifications, and reusable QA playbooks for context-aware API validation.
-* **Role-Aware Playwright Mockserver:** Designed a service mocking strategy for complex RBAC, identity flows (Azure Entra ID), and error-state testing to reduce reliance on seeded data and live identity providers.
+* **Role-Aware Playwright Mockserver:** Familiar with service mocking strategy for complex RBAC, identity flows (Azure Entra ID), and error-state testing to reduce reliance on seeded data and live identity providers.
 
 ---
 
