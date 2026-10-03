@@ -26,6 +26,6 @@ I specialize in building deterministic UI/API test automation frameworks, CI/CD 
 
 ### 🌐 Connect & Technical Writings
 
-* 💼 **Portfolio:** [balajiregt.github.io/portfolio](https://balaji-kumarasamy.netlify.app/)
+* 💼 **Portfolio:** [Portfolio](https://balaji-kumarasamy.netlify.app/)
 * ✍️ **Articles & Medium:** [@kbalaji.kks](https://medium.com/@kbalaji.kks)
 * 📬 **LinkedIn:** [linkedin.com/in/balajikumarasamy](https://www.linkedin.com/in/balajikumarasamy)
